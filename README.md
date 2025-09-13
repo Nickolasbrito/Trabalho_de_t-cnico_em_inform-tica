@@ -77,10 +77,10 @@
 Nickolas Gabriel Franco Brito
 
 ## 📅 Data
-Data da entrega
+12/09/2025
 
 ## 📧 Contato
-Seu e-mail ou perfil no GitHub
+Nickolasbrito0708@gmail.com
 
 ## 🧠 O que aprendi?
 (Escreva aqui um pequeno resumo do que você aprendeu com a atividade)
