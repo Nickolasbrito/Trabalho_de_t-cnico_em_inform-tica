@@ -83,4 +83,4 @@ Nickolas Gabriel Franco Brito
 Nickolasbrito0708@gmail.com
 
 ## 🧠 O que aprendi?
-(Escreva aqui um pequeno resumo do que você aprendeu com a atividade)
+Aprendi comandos uteis para o dia a dia na vida de um técnico em informática
